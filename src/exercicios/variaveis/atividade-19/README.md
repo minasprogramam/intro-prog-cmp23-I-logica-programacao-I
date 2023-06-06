@@ -12,9 +12,9 @@ Crie um programa para calcular a porcentagem necessária de desconto para você 
 
 Dado 3 números, a, b e c, calculamos d utilizando a regra de três. 
 
-|  a  |  b  |
+|  a  |  b |
 |:---:|:---:|
-|  c  |  d  |
+|  c  |  d |
 
 #### Exemplo
 
