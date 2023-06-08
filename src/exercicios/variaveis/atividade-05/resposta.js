@@ -1,7 +1,7 @@
 // Faça um programa que armazene duas frases e compare se elas são iguais E IMPRIMA.
 
-const fraseUm = "Eu gosto de batata"
-const fraseDois = "Eu gosto de batata"
+const fraseUm = "Eu gosto de chocolate"
+const fraseDois = "Eu gosto de chocolate"
 
 let comparacaoFrases = (fraseUm == fraseDois)
 

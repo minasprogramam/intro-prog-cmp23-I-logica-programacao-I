@@ -2,7 +2,7 @@
 // ano atual - ano de nascimento = idade
 
 let anoAtual = 2023
-const anoDeNascimento = 2000
+const anoDeNascimento = 2004
 
 let idade = anoAtual - anoDeNascimento;
 
