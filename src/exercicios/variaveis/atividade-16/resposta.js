@@ -1,5 +1,5 @@
 let alimentacao = 300
-let transporte = 150
+let transporte = 120
 let moradia = 680
 let entretenimento = 250
 let viagens = 450
